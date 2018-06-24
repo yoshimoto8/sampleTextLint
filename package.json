@@ -15,5 +15,8 @@
     "textlint-rule-max-ten": "^2.0.3",
     "textlint-rule-preset-japanese": "^4.0.0",
     "textlint-rule-prh": "^5.0.1"
+  },
+  "dependencies": {
+    "prh": "^5.4.3"
   }
 }

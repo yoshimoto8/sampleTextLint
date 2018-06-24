@@ -1,10 +1,9 @@
 {
+  "filters": {},
   "rules": {
-    "preset-japanese": true
-  },
-  "prh": {
-    "rulePaths": [
-      "rules/markdown.yml"
-    ]
+    "preset-japanese": true,
+    "prh": {
+    "rulePaths": ["./prh.yml"]
+  }
   }
 }
