@@ -1,0 +1,19 @@
+{
+  "name": "markdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "text": "node_modules/.bin/textlint",
+    "fix": "node_modules/.bin/textlint --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "textlint": "^10.2.1",
+    "textlint-rule-max-ten": "^2.0.3",
+    "textlint-rule-preset-japanese": "^4.0.0",
+    "textlint-rule-prh": "^5.0.1"
+  }
+}
